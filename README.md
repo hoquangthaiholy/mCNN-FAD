@@ -32,10 +32,14 @@ For personal communication related to mCNN-FAD, please contact Yu-Yen Ou
 (`yien@saturn.yzu.edu.tw`), Quang-Thai Ho (`hoquangthaiholy@gmail.com`), or
 Syed Muazzam Ali Shah (`muazzam.ali72@gmail.com `).
 
+<br/>
+
 ![Figure 1](https://raw.githubusercontent.com/hoquangthaiholy/mCNN-FAD/master/yzu.png?raw=true)
 
-<p>Department of Computer Science and Engineering</p>
-<p>Graduate Program in Biomedical Informatics</p>
-<p>Bioinformatics Laboratory (R1607B)</p>
-<p>Address: No. 135, Yuandong Road, Chungli City, Taoyuan County, Taiwan R.O.C .32003</p>
-<p>Tel: (03) 463-8800</p>
+<p>
+Department of Computer Science and Engineering<br/>
+Graduate Program in Biomedical Informatics<br/>
+Bioinformatics Laboratory (R1607B)<br/>
+Address: No. 135, Yuandong Road, Chungli City, Taoyuan County, Taiwan R.O.C .32003<br/>
+Tel: (03) 463-8800
+</p>
