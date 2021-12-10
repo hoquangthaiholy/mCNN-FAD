@@ -1,6 +1,6 @@
 
 <h1 align="center"><i>m</i>CNN-FAD</h1>
-
+<p align="center"><a href="https://colab.research.google.com/drive/1dBshPHFrG6Ba10Jv_Wn20PStB4ftCo6d" align="center"><strong>Run <i>m</i>CNN-FAD on Colab »</strong></a></p>
 <h2 align="center">
   Using multiple windows scanning techniques and convolutional neural networks to identify FAD binding sites within transport proteins
 </h2>
